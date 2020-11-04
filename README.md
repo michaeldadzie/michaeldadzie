@@ -4,7 +4,14 @@
 ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaeldadzie)
 <img align="right" alt="Coder GIF" height=200 width=200 src="https://github.com/michaeldadzie/michaeldadzie/blob/main/Assets/animation.gif" />
 <br>
-<h1 style="text-align:center;">Build. Design. Improve.</h1>
+
+<div align="center">
+
+### Build. Design. Improve.
+
+</div>
+
+
 <!--
 **michaeldadzie/michaeldadzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
