@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### Build. Design. Improve.
+### Design. Build. Improve.
 
 </div>
 <br>
