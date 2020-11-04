@@ -20,6 +20,8 @@
 <a href="https://dev.to/michaeldadzie">
   <img align="left" alt="Michael's Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 </a>
+<br>
+
 
 <div align="center">
 
