@@ -1,5 +1,6 @@
 
 ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaeldadzie)
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/michaeldadzie/michaeldadzie/blob/main/Assets/animation.gif" />
 <!--
 **michaeldadzie/michaeldadzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
