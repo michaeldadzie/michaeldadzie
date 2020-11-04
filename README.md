@@ -6,21 +6,21 @@
 <br>
 <br>
 
-<code><a href="https://https://twitter.com/michaeldadzie_">
+<a href="https://https://twitter.com/michaeldadzie_">
   <img height="20" alt="Michael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a></code>
-<code><a href="https://linkedin.com/in/michaeldadzie">
+</a>
+<a href="https://linkedin.com/in/michaeldadzie">
   <img height="20" alt="Michael's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a></code>
-<code><a href="https://github.com/michaeldadzie">
+</a>
+<a href="https://github.com/michaeldadzie">
   <img height="20" alt="Michael's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a></code>
-<code><a href="https://instagram.com/michaeldadzie_">
+</a>
+<a href="https://instagram.com/michaeldadzie_">
   <img height="20" alt="Michael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a></code>
-<code><a href="https://dev.to/michaeldadzie">
+</a>
+<a href="https://dev.to/michaeldadzie">
   <img height="20" alt="Michael's Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
-</a></code>
+</a>
 <br>
 
 
