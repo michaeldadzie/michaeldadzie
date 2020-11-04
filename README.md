@@ -5,21 +5,21 @@
 <img align="right" alt="Coder GIF" height=200 width=200 src="https://github.com/michaeldadzie/michaeldadzie/blob/main/Assets/animation.gif" />
 <br>
 <br>
- <a href="https://twitter.com/michaeldadzie_">
-  <img align="left" alt="Michael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/michaeldadzie">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/michaeldadzie">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/michaeldadzie_">
-  <img align="left" alt="Michael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://dev.to/michaeldadzie">
-  <img align="left" alt="Michael's Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
-</a>
+ <code><a href="https://twitter.com/michaeldadzie_">
+  <img height="20"" alt="Michael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a></code>
+<code><a href="https://linkedin.com/in/michaeldadzie">
+  <img height="20" alt="Michael's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a></code>
+<code><a href="https://github.com/michaeldadzie">
+  <img height="20" alt="Michael's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a></code>
+<code><a href="https://instagram.com/michaeldadzie_">
+  <img height="20" alt="Michael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a></code>
+<code><a href="https://dev.to/michaeldadzie">
+  <img height="20" alt="Michael's Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+</a></code>
 <br>
 
 
