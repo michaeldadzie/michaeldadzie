@@ -7,7 +7,7 @@
 <br>
 **Reach out to me on:**  
 <br>
-<a href="twitter.com/michaeldadzie_">
+<a href="https://twitter.com/michaeldadzie_">
   <img height="20" alt="Michael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/michaeldadzie">
