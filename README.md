@@ -1,5 +1,6 @@
 
-![](https://komarev.com/ghpvc/?username=michaeldadzie&color=red&style=flat)
+![](https://komarev.com/ghpvc/?username=michaeldadzie&color=blue&style=flat)
+<br>
 ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaeldadzie)
 <img align="right" alt="Coder GIF" height=200 width=200 src="https://github.com/michaeldadzie/michaeldadzie/blob/main/Assets/animation.gif" />
 <!--
