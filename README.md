@@ -5,7 +5,7 @@
 <img align="right" alt="Coder GIF" height=200 width=200 src="https://github.com/michaeldadzie/michaeldadzie/blob/main/Assets/animation.gif" />
 <br>
 <br>
-**Reach out to me on::**  
+**Reach out to me on:**  
 <br>
 <a href="https://https://twitter.com/michaeldadzie_">
   <img height="20" alt="Michael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
