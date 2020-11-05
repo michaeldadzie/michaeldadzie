@@ -1,5 +1,5 @@
 # Hi, I'm Michael 👋🏾
-<br>
+
 
 ![](https://komarev.com/ghpvc/?username=michaeldadzie&color=blue&style=flat)
 <br>
