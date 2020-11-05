@@ -5,7 +5,8 @@
 <img align="right" alt="Coder GIF" height=200 width=200 src="https://github.com/michaeldadzie/michaeldadzie/blob/main/Assets/animation.gif" />
 <br>
 <br>
-<a href="https://twitter.com/michaeldadzie_">
+<div align="center">
+  <a href="https://twitter.com/michaeldadzie_">
   <img height="20" alt="Michael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/michaeldadzie">
@@ -21,6 +22,9 @@
   <img height="20" alt="Michael's Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 </a>
 <br>
+</div>
+
+
 
 <div align="center">
 
