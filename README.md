@@ -1,5 +1,6 @@
 # Hi, I'm Michael 👋🏾
 <br>
+
 ![](https://komarev.com/ghpvc/?username=michaeldadzie&color=blue&style=flat)
 <br>
 ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaeldadzie)
