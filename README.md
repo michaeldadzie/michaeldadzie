@@ -5,8 +5,6 @@
 <img align="right" alt="Coder GIF" height=200 width=200 src="https://github.com/michaeldadzie/michaeldadzie/blob/main/Assets/animation.gif" />
 <br>
 <br>
-**Reach out to me on:**  
-<br>
 <a href="https://twitter.com/michaeldadzie_">
   <img height="20" alt="Michael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -38,6 +36,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://miro.medium.com/max/2048/1*6XgfDCVn81AYX68Xvd2I-g@2x.png"></code>
 <br>
 
 
