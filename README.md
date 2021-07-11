@@ -1,12 +1,12 @@
-# Hi, I'm Michael 👋🏾
+<!-- # Hi, I'm Michael 👋🏾 -->
 
 
-![](https://komarev.com/ghpvc/?username=michaeldadzie&color=blue&style=flat)
+<!-- ![](https://komarev.com/ghpvc/?username=michaeldadzie&color=blue&style=flat)
 <br>
 ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaeldadzie)
 <img align="right" alt="Coder GIF" height=200 width=200 src="https://github.com/michaeldadzie/michaeldadzie/blob/main/Assets/animation.gif" />
 <br>
-<br>
+<br> -->
 <div align="center">
   <a href="https://twitter.com/michaeldadzie_">
   <img height="20" alt="Michael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,15 +25,12 @@
 </a>
 <br>
 </div>
-
-
-
 <div align="center">
-
-### Design. Build. Improve.
-
+Design. Build. Improve.
 </div>
 <br>
+<div align='center' style="margin: 0 auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=michaeldadzie"> </div>
+</div>
 
 **Languages and Tools:**  
 
