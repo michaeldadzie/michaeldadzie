@@ -32,8 +32,9 @@ Design. Build. Improve.
 <div align='center' style="margin: 0 auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=michaeldadzie"> </div>
 </div>
 
-**Languages and Tools:**  
-
+<div align="center">
+  <b>Languages and Tools:</b>
+<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -41,6 +42,8 @@ Design. Build. Improve.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/2048/1*6XgfDCVn81AYX68Xvd2I-g@2x.png"></code>
 <br>
+<br>
+  </div>
 
 
 
