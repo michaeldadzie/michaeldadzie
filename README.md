@@ -9,19 +9,19 @@
 <br> -->
 <div align="center">
   <a href="https://twitter.com/michaeldadzie_">
-  <img height="20" alt="Michael's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img height="22px" alt="Michael's Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
 </a>
 <a href="https://linkedin.com/in/michaeldadzie">
-  <img height="20" alt="Michael's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img height="22px" alt="Michael's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://github.com/michaeldadzie">
-  <img height="20" alt="Michael's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img height="22px" alt="Michael's Github" width="22px" src="https://image.flaticon.com/icons/png/512/733/733553.png" />
 </a>
 <a href="https://instagram.com/michaeldadzie_">
-  <img height="20" alt="Michael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img height="22px" alt="Michael's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />
 </a>
 <a href="https://dev.to/michaeldadzie">
-  <img height="20" alt="Michael's Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+  <img height="22px" alt="Michael's Dev" width="22px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" />
 </a>
 <br>
 </div>
