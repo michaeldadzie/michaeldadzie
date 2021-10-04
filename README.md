@@ -8,7 +8,7 @@
 <br>
 <br> -->
 <div align="center">
-  <a href="https://twitter.com/michaeldadzie_">
+  <a href="https://twitter.com/michaeldadziie">
   <img height="22px" alt="Michael's Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
 </a>
 <a href="https://linkedin.com/in/michaeldadzie">
