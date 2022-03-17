@@ -7,7 +7,7 @@
 <img align="right" alt="Coder GIF" height=200 width=200 src="https://github.com/michaeldadzie/michaeldadzie/blob/main/Assets/animation.gif" />
 <br>
 <br> -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://twitter.com/michaeldadziie">
   <img height="22px" alt="Michael's Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
 </a>
@@ -24,7 +24,7 @@
   <img height="22px" alt="Michael's Dev" width="22px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" />
 </a>
 <br>
-</div>
+</div> -->
 <div align="center">
 Design. Build. Improve.
 </div>
