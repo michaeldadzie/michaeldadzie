@@ -32,6 +32,7 @@ Design. Build. Improve.
 <div align='center' style="margin: 0 auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=michaeldadzie"> </div>
 </div>
 
+<!--
 <div align="center">
   <p><b>Languages and Tools:</b></p>
 <code><img height="20" 
@@ -48,6 +49,7 @@ src="https://www.swiftbysundell.com/images/discover/swiftui/icon.png"></code>
 <br>
 <br>
   </div>
+-->
 
 
 
